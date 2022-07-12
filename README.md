@@ -36,13 +36,10 @@ Here are some ideas to take strongly into consideration
 - Have you 'tested' your code?
 - Optimise your website for speed. Mobile users may not have a fast connection
 
-## Submitting your test
+## Submitting your code
 
-- Fork a GitHub repository.
-- Clone the forked repository to your local system.
-- Add a Git remote for the original repository.
-- Create a feature branch in which to place your changes.
-- Make your changes to the new branch.
-- Commit the changes to the branch.
-- Push the branch to GitHub.
-- Open a pull request from the new branch to the original repo.
+- Clone the repository to your local system
+- Create a feature branch for your changes
+- Commit the changes to that branch
+- Push the branch to a suitable service (eg GitHub or GitLab)
+- Send a link to us
